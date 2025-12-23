@@ -19,15 +19,15 @@ Economista egresado **Cum Laude** de la Universidad de los Andes (ULA), especial
 ```
 📈 Econometría Aplicada       🐍 Python & R Programming
 📊 Análisis de Datos          📉 Series Temporales (ARIMA)
-🗂️  Visualización de Datos     💹 Análisis Económico
-🔍 Estadística Inferencial    📱 Análisis de Políticas Públicas
+🗂️  Visualización de Datos     📱 Análisis de Políticas Públicas
+🔍 Estadística Inferencial    💹 Análisis Económico
 ```
 
 ---
 
 ## 🚀 Proyectos Destacados
 
-### 🏛️ [Análisis Cuantitativo: Planificación Comunal Mérida (2019-2025)](https://github.com/alexwill24/monografia-analisis-aca-merida.git)
+### 🏛️ [Análisis Cuantitativo: Planificación Comunal Mérida (2019-2025)](https://github.com/alexwill24/monografia-analisis-aca-merida)
 **Tesis de Grado - Calificación: 19/20**
 
 Estudio estadístico sobre la correlación entre nudos críticos y proyectos en Agendas Concretas de Acción del municipio Santos Marquina, Mérida.
@@ -44,7 +44,7 @@ Estudio estadístico sobre la correlación entre nudos críticos y proyectos en 
 
 ---
 
-### 📊 Portafolio de Análisis Econométricos
+### 📊 [Portafolio de Análisis Econométricos](https://github.com/alexwill24/Economia-ULA)
 
 Colección de análisis económicos publicados en **RPubs**:
 
@@ -130,7 +130,13 @@ Colección de análisis económicos publicados en **RPubs**:
 
 ## 📊 Estadísticas de GitHub
 
-![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexwill24&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alexwill24&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexwill24&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
@@ -143,6 +149,5 @@ Colección de análisis económicos publicados en **RPubs**:
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexwill24&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://komarev.com/ghpvc/?username=alexwill24&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </p>
-![Profile Views](https://komarev.com/ghpvc/?username=alexwill24&color=blueviolet&style=for-the-badge)
