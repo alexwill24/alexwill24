@@ -141,3 +141,8 @@ Colección de análisis económicos publicados en **RPubs**:
   ⭐ **Si encuentras útil algún proyecto, ¡no dudes en darle una estrella!**
   
 </div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexwill24&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+![Profile Views](https://komarev.com/ghpvc/?username=alexwill24&color=blueviolet&style=for-the-badge)
