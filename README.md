@@ -130,24 +130,18 @@ Colección de análisis económicos publicados en **RPubs**:
 
 ## 📊 Estadísticas de GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexwill24&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
+![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexwill24&show_icons=true&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexwill24&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexwill24&layout=compact&theme=tokyonight)
 
 ---
 
 <div align="center">
   
-  ### 💡 "Los datos cuentan historias. Mi trabajo es escucharlas y compartirlas."
-  
-  ⭐ **Si encuentras útil algún proyecto, ¡no dudes en darle una estrella!**
-  
-</div>
+### 💡 "Los datos cuentan historias. Mi trabajo es escucharlas y compartirlas."
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alexwill24&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-</p>
+⭐ **Si encuentras útil algún proyecto, ¡no dudes en darle una estrella!**
+
+![Profile Views](https://komarev.com/ghpvc/?username=alexwill24&color=blueviolet&style=flat-square)
+
+</div>
