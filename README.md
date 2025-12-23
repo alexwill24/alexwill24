@@ -147,3 +147,7 @@ Colección de análisis económicos publicados en **RPubs**:
   ⭐ **Si encuentras útil algún proyecto, ¡no dudes en darle una estrella!**
   
 </div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=alexwill24&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</p>
