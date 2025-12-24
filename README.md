@@ -128,14 +128,6 @@ Colección de análisis económicos publicados en **RPubs**:
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexwill24&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexwill24&layout=compact&theme=tokyonight)
-
----
-
 <div align="center">
   
 ### 💡 "Los datos cuentan historias. Mi trabajo es escucharlas y compartirlas."
