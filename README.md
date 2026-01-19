@@ -40,7 +40,7 @@ Estudio estadístico sobre la correlación entre nudos críticos y proyectos en 
 
 **Tecnologías:** R, tidyverse, ggplot2, dplyr, stats
 
-📄 **Ver capítulo analítico:** [RPubs - Capítulo 4](http://rpubs.com/WILLIAM_25/1352257)
+📄 **Ver capítulo analítico:** [RPubs - Capítulo 4](https://rpubs.com/WILLIAM_25/1388508)
 
 ---
 
